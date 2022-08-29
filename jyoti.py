@@ -1,0 +1,8 @@
+f=open('jyoti.txt',"r")
+data=f.read(5)
+print(data)
+# print(type(data))
+data=f.read(7)
+print(data)
+# data=f.read(3)
+# print(data)
